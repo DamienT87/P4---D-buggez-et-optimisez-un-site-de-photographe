@@ -244,6 +244,12 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+.contact-infos{
+	margin-top: 20px;
+	border-top : solid 3px #111111;
+	padding-top : 40px;
+	width: 600px;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
