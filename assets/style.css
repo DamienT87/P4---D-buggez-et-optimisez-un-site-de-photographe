@@ -28,6 +28,9 @@ body {
 	font-size: 14px;
 	margin-bottom: 0;
 }
+.visually-hidden{
+	color: #111111;
+}
 
 .nav li {
 	padding-inline: 10px;
